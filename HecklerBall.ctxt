@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HecklerBall
+comment1.params=xpos\ ypos\ vx\ vy\ size
+comment1.target=HecklerBall(int,\ int,\ int,\ int,\ int)
+comment2.params=time\ player
+comment2.target=void\ Movement(long,\ PlayerBall)
+comment3.params=a
+comment3.target=void\ CreateBall(java.awt.Graphics)
+comment4.params=h\ number\ level\ level1
+comment4.target=void\ setNumber(HecklerBall[],\ int,\ double,\ int)
+numComments=5

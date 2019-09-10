@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StopWatch
+comment0.text=\r\n\ \ \ A\ stopwatch\ accumulates\ time\ when\ it\ is\ running.\ You\ can\ \r\n\ \ \ repeatedly\ start\ and\ stop\ the\ stopwatch.\ You\ can\ use\ a\r\n\ \ \ stopwatch\ to\ measure\ the\ running\ time\ of\ a\ program.\r\n
+comment1.params=
+comment1.target=StopWatch()
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ stopwatch\ that\ is\ in\ the\ stopped\ state\r\n\ \ \ \ \ \ and\ has\ no\ time\ accumulated.\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ \ \ \ \ \ Starts\ the\ stopwatch.\ Time\ starts\ accumulating\ now.\r\n
+comment3.params=
+comment3.target=void\ stop()
+comment3.text=\r\n\ \ \ \ \ \ Stops\ the\ stopwatch.\ Time\ stops\ accumulating\ and\ is\r\n\ \ \ \ \ \ is\ added\ to\ the\ elapsed\ time.\r\n
+comment4.params=
+comment4.target=long\ getElapsedTime()
+comment4.text=\r\n\ \ \ \ \ \ Returns\ the\ total\ elapsed\ time.\r\n\ \ \ \ \ \ @return\ the\ total\ elapsed\ time\r\n
+comment5.params=
+comment5.target=void\ reset()
+comment5.text=\r\n\ \ \ \ \ \ Stops\ the\ watch\ and\ resets\ the\ elapsed\ time\ to\ 0.\r\n
+numComments=6

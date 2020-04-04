@@ -1,6 +1,6 @@
 # Survivor Ball
 
-### Purpose of the Repository: \newline Creating game for 2017 Bugil Academy Global Leaders Program Advanced Placement Computer Science Class
+### Purpose of the Repository: /n newline Creating game for 2017 Bugil Academy Global Leaders Program Advanced Placement Computer Science Class
 
 VERSION or DATE: 22/12/2017
 
